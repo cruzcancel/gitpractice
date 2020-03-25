@@ -1,3 +1,14 @@
+FRUIT
 apple
 bananas
 oranges
+
+
+MEAT
+
+
+
+DAIRY
+
+
+HOUSEHOLDS
